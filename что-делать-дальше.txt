@@ -1,0 +1,13 @@
+mkdir -p ~/.config/bspwm ~/.config/sxhkd ~/.config/polybar
+
+#bspwm
+cp /home/user/My-bspwm-config-by-stimak04/bspwm ~/.config/bspwm
+
+#sxhkd
+cp /home/user/My-bspwm-config-by-stimak04/sxhkd ~/.config/sxhkd
+
+#polybar
+cp /home/user/My-bspwm-config-by-stimak04/polybar ~/.config/polybar
+
+#script activation
+chmod +x ~/.config/bspwm/bspwmrc
