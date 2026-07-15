@@ -11,3 +11,5 @@ cp /home/user/config-bspwm/polybar ~/.config/polybar
 
 #script activation
 chmod +x ~/.config/bspwm/bspwmrc
+
+user=ваше имя пользователя
